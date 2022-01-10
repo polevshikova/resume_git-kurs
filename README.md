@@ -1,5 +1,5 @@
 Полевщикова Юлия
-![myphoto](img/myphoto.img)
+![Optional Text](../master/img/myphoto.jpg)
 iOS-developer
 Навыки: - Swift  
         - ООП
