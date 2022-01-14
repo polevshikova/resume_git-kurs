@@ -1,5 +1,4 @@
 #Полевщикова Юлия
-
 ##iOS-developer, студент Netology
 
 ###Навыки: 
@@ -9,3 +8,4 @@
         * среда разработки Xcode
         
         ###![Optional Text](../master/img/myphoto.jpg)
+ 
