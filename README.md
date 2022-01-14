@@ -1,11 +1,11 @@
 #Полевщикова Юлия
-##iOS-developer, студент Netology
+####iOS-developer, студент Netology
 
-###Навыки: 
+#####Навыки: 
         * Swift  
         * ООП
         * английский язык
         * среда разработки Xcode
         
-        ###![Optional Text](../master/img/myphoto.jpg)
+![Optional Text](img/myphoto.jpg)
  
